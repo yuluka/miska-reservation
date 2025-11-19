@@ -418,7 +418,6 @@ const ReservationForm = () => {
                                     type="text"
                                     placeholder="Juan Pérez"
                                     value={formData.cardholderName}
-                                    disabled={true}
                                     onChange={(e) =>
                                         setFormData({
                                             ...formData,
