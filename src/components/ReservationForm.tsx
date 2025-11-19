@@ -94,11 +94,6 @@ const ReservationForm = () => {
                 {/* Header */}
                 <div className="mb-8">
                     <div className="flex items-center gap-2 mb-6">
-                        <img
-                            src="src/resources/Miska_logo.png"
-                            alt="Logo MISKA"
-                            className="w-5 h-5 rounded"
-                        />
                         <span className="font-semibold text-foreground">
                             MISKA
                         </span>
