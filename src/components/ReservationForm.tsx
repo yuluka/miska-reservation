@@ -60,7 +60,7 @@ const ReservationForm = () => {
         toast.success("Reserva confirmada correctamente");
         setTimeout(() => {
             navigate("/thanks");
-        }, 500);
+        }, 100);
     };
 
     const fillAndSubmit = () => {
